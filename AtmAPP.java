@@ -12,7 +12,7 @@ public class AtmAPP {
 //version umr1
         System.out.println("bir kısım kodlar");
         //umr2
-
+//remote repoda degisiklik yaptim
 
 
 
